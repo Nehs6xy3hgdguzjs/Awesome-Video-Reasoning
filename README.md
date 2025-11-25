@@ -8,6 +8,10 @@
 
 ### 2025
 
+**Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark** | *Nov 2025*  
+Xinxin Liu, Zhaopan Xu, Kai Wang, Yong Jae Lee, Yuzhang Shang  
+📄 [Paper](https://arxiv.org/abs/2511.13853) | 💻 [Code](https://github.com/L-CodingSpace/GVR)
+
 **Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark** | *Oct 2025*  
 Ziyu Guo, Xinyan Chen, Renrui Zhang, Ruichuan An, Yu Qi, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng  
 📄 [Paper](https://arxiv.org/abs/2510.26802) | 💻 [Code](https://github.com/ZiyuGuo99/MME-CoF)
@@ -35,6 +39,10 @@ Yang Luo, Xuanlei Zhao, Baijiong Lin, Lingting Zhu, Liyao Tang, Yuqi Liu, Ying-C
 **TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models** | *Nov 2025*  
 Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Chen, Wenkai Cheng, Kanghao Chen, Hongfei Zhang, Zixin Zhang, Rongjin Guo, Yu Cheng, Ying-Cong Chen  
 📄 [Paper](https://arxiv.org/abs/2511.13704) | 💻 [Code](https://github.com/EnVision-Research/TiViBench)
+
+**Video models are zero-shot learners and reasoners** | *Sep 2025*  
+Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
+📄 [Paper](https://arxiv.org/abs/2509.20328) | 💻 [Project](https://video-zero-shot.github.io/)
 
 **VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning** | *Mar 2025*  
 Ye Liu, Kevin Qinghong Lin, Chang Wen Chen, Mike Zheng Shou  
