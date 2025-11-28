@@ -8,6 +8,10 @@
 
 ### 2025
 
+**Video Generation Models Are Good Latent Reward Models** | *Nov 2025*  
+Xiaoyue Mi, Wenqing Yu, Jiesong Lian, Shibo Jie, Ruizhe Zhong, Zijun Liu, Guozhen Zhang, Zixiang Zhou, Zhiyong Xu, Yuan Zhou, Qinglin Lu, Fan Tang  
+📄 [Paper](https://arxiv.org/abs/2511.21541)
+
 **VChain: Chain-of-Visual-Thought for Reasoning in Video Generation** | *Oct 2025*  
 Ziqi Huang, Ning Yu, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu  
 📄 [Paper](https://arxiv.org/abs/2510.05094) | 💻 [Project](https://eyeline-labs.github.io/VChain/)
