@@ -8,6 +8,10 @@
 
 ### 2025
 
+**In-Video Instructions: Visual Signals as Generative Control** | *Nov 2025*  
+Gongfan Fang, Xinyin Ma, Xinchao Wang  
+📄 [Paper](https://arxiv.org/abs/2511.19401) | 💻 [Project](https://fangggf.github.io/In-Video/)
+
 **Video Generation Models Are Good Latent Reward Models** | *Nov 2025*  
 Xiaoyue Mi, Wenqing Yu, Jiesong Lian, Shibo Jie, Ruizhe Zhong, Zijun Liu, Guozhen Zhang, Zixiang Zhou, Zhiyong Xu, Yuan Zhou, Qinglin Lu, Fan Tang  
 📄 [Paper](https://arxiv.org/abs/2511.21541)
