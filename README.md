@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of papers and resources focused on video reasoning capabilities of AI models.
+> This repository **only includes works on reasoning with video models**. In general, we do **not** list works on language models or general multi-modal language models. 
 
 ## Papers
 
@@ -67,10 +67,6 @@ Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Che
 **Video models are zero-shot learners and reasoners** | *Sep 2025*  
 Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
 📄 [Paper](https://arxiv.org/abs/2509.20328) | 💻 [Project](https://video-zero-shot.github.io/)
-
-## Inclusion Criteria
-
-This repository **only includes works on reasoning with video models**. In general, we do **not** list works on language models or general multi-modal language models. 
 
 ## Contributing
 
