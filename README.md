@@ -12,6 +12,10 @@
 Xuming He, Zehao Fan, Hengjia Li, Fan Zhuo, Hankun Xu, Senlin Cheng, Di Weng, Haifeng Liu, Can Ye, Boxi Wu  
 📄 [Paper](https://arxiv.org/abs/2512.02622) | 💻 [Project](https://hexmseeu.github.io/RULER-Bench-proj/)
 
+**What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards** | *Nov 2025*  
+Minh-Quan Le, Yuanzhi Zhu, Vicky Kalogeiton, Dimitris Samaras  
+📄 [Paper](https://arxiv.org/abs/2512.00425) | 💻 [Project](https://cvlab-stonybrook.github.io/NewtonRewards/)
+
 **In-Video Instructions: Visual Signals as Generative Control** | *Nov 2025*  
 Gongfan Fang, Xinyin Ma, Xinchao Wang  
 📄 [Paper](https://arxiv.org/abs/2511.19401) | 💻 [Project](https://fangggf.github.io/In-Video/)
