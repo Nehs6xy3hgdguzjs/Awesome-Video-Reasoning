@@ -8,6 +8,10 @@
 
 ### 2025
 
+**RULER-Bench: Probing Rule-based Reasoning Abilities of Next-level Video Generation Models for Vision Foundation Intelligence** | *Dec 2025*  
+Xuming He, Zehao Fan, Hengjia Li, Fan Zhuo, Hankun Xu, Senlin Cheng, Di Weng, Haifeng Liu, Can Ye, Boxi Wu  
+📄 [Paper](https://arxiv.org/abs/2512.02622) | 💻 [Project](https://hexmseeu.github.io/RULER-Bench-proj/)
+
 **In-Video Instructions: Visual Signals as Generative Control** | *Nov 2025*  
 Gongfan Fang, Xinyin Ma, Xinchao Wang  
 📄 [Paper](https://arxiv.org/abs/2511.19401) | 💻 [Project](https://fangggf.github.io/In-Video/)
@@ -60,13 +64,7 @@ Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Che
 Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
 📄 [Paper](https://arxiv.org/abs/2509.20328) | 💻 [Project](https://video-zero-shot.github.io/)
 
-**Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning** | *May 2025*  
-Sara Ghazanfari, Francesco Croce, Nicolas Flammarion, Prashanth Krishnamurthy, Farshad Khorrami, Siddharth Garg  
-📄 [Paper](https://arxiv.org/abs/2506.00318) | 💻 [Code](https://github.com/SaraGhazanfari/CoF)
-
-**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning** | *Mar 2025*  
-Ye Liu, Kevin Qinghong Lin, Chang Wen Chen, Mike Zheng Shou  
-📄 [Paper](https://arxiv.org/abs/2503.13444) | 💻 [Code](https://github.com/yeliudev/VideoMind)
+> **Note:** This repository **only includes works on reasoning using video generation models**. We do **not** list works focusing on language models or general multi-modal language models. For inclusion, papers must directly address reasoning abilities within the context of video generation.
 
 ## Contributing
 
