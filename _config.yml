@@ -7,3 +7,7 @@ baseurl: "/Awesome-Video-Reasoning"
 plugins:
   - jekyll-sitemap
 
+# Use README.md as index
+readme_index:
+  enabled: true
+
